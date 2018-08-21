@@ -1,0 +1,21 @@
+{
+  "name": "part3_puhelinluettelo_backend_osa9",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "nodemon index.js",
+    "test": "echo\\\"Error:no test specified\\\" && exit 1\""
+  },
+  "author": "Dmitri",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  },
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  }
+}
